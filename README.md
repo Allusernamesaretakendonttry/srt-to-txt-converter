@@ -14,7 +14,7 @@ A simple Python script to convert `.srt` subtitle files into clean `.txt` text f
    ```bash
    python srt_to_txt.py
    ```
-2. Enter the path to the .srt file when prompted.
+2. Enter the path to the .srt file when prompted. (inside double qoutation)
 
 3. The converted .txt file will be saved to the txts/ folder automatically.
 
